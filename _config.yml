@@ -1,0 +1,31 @@
+# site settings
+title: jusmi
+subtitle: 
+email: albert@jvsmi.com
+description: I'm a freelance motion and graphics designer with a passion for creating unique and excited visuals!
+baseurl: "/forty-jekyll-theme/" # the subpath of your site, e.g. /blog
+url: jvsmi.com # the base hostname & protocol for your site
+author:
+
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 8
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
